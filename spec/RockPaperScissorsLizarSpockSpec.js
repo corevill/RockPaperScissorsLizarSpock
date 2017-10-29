@@ -1,4 +1,4 @@
-describe("Player", function() {
+describe("Rock Paper Scissors Lizar Spock game", function() {
   var DRAW;
   var WIN_PLAYER_1;
   var WIN_PLAYER_2;
